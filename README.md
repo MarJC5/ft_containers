@@ -6,19 +6,23 @@
     </h4>
 </h1>
 
+## What is a container ?
+
+A container is an object that stores other objects. It is a data structure that groups elements together. It is a way to store data in a way that is easy to access and modify. Containers are used to store data temporarily, and are used in many different situations. They are used to store data in memory, to pass data between functions, and to perform operations on data.
+
 ## 📝 Table of Contents
 
-- [Vector](#vector)
-  - [Step to implement a vector](#step-to-implement-a-vector) 
-  - [Documentation](/doc/vector.md)
-- [Map](#map)
+- [What is a container ?](#what-is-a-container-)
+- [📝 Table of Contents](#-table-of-contents)
+- [Where to start to understand the project?](#where-to-start-to-understand-the-project)
+- [📦 Vector](#-vector)
+  - [Step to implement a vector](#step-to-implement-a-vector)
+- [📦 Map](#-map)
   - [Step to implement a map](#step-to-implement-a-map)
-  - [Documentation](/doc/map.md)
-- [Stack](#stack)
+- [📦 Stack](#-stack)
   - [Step to implement a stack](#step-to-implement-a-stack)
-  - [Documentation](/doc/stack.md)
 - [Iterator](#iterator)
-  - [Documentation](/doc/iterator.md)
+- [Others implementations](#others-implementations)
 
 ## Where to start to understand the project?
 
